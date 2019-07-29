@@ -1,3 +1,3 @@
 # etc
 
-Generally useful tings
+Generally useful things!
