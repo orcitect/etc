@@ -1,3 +1,3 @@
 # etc
 
-Generally useful things!
+Generally useful things
